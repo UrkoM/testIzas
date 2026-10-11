@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1b6e63"/>
+  <!-- libro abierto -->
+  <path d="M256 190c-40-26-90-34-140-28v192c50-6 100 2 140 28z" fill="#fbf9f4"/>
+  <path d="M256 190c40-26 90-34 140-28v192c-50-6-100 2-140 28z" fill="#e9e3d4"/>
+  <path d="M256 190v192" stroke="#124d45" stroke-width="8"/>
+  <!-- birrete -->
+  <path d="M256 78 120 140l136 62 136-62z" fill="#124d45"/>
+  <path d="M170 176v44c0 18 38 34 86 34s86-16 86-34v-44l-86 40z" fill="#0d3a34"/>
+  <path d="M392 140v70" stroke="#e0b44c" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="392" cy="218" r="13" fill="#e0b44c"/>
+</svg>
